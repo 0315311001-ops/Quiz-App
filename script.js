@@ -92,7 +92,7 @@ function submitAnswer(event) {
     else if (option3.checked) {
         userAnswers.push(question.option3);
     }
-    )
+    
     // TODO: Add one to the question index
 
     // TODO: Load the next question
